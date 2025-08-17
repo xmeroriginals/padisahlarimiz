@@ -1,0 +1,655 @@
+{
+  "1": {
+    "name": "Osman Gazi",
+    "title": "Bey, Gazi",
+    "birth_death": "1258–1326",
+    "sultanate": "1299–1326",
+    "father": "Ertuğrul Gazi",
+    "mother": "Halime Hatun",
+    "wife": "Malhun Hatun, Rabia Bala Hatun",
+    "reign_summary": "Osmanlı Beyliği'nin kurucusu ve ilk padişahı. Devleti Söğüt ve Domaniç'te kurarak temellerini attı.",
+    "story": "Ertuğrul Gazi'nin oğlu olan Osman Gazi, Osmanlı Beyliği'nin kurucusu olarak kabul edilir. Ahi lideri Şeyh Edebali'nin kızıyla evlenerek Ahilerin desteğini kazanmış, adaletli ve hoşgörülü yönetimiyle halkın sevgisini kazanmıştır. Bizans'a karşı yaptığı Koyunhisar Savaşı gibi zaferlerle beyliğin sınırlarını genişletmiş ve Bursa'nın fethini başlatmıştır. Onun attığı sağlam temeller, devletin bir cihan imparatorluğuna dönüşmesini sağlamıştır.",
+    "key_events": [
+      "Osmanlı Beyliği'nin bağımsızlığını ilan etmesi (1299)",
+      "Bizans'a karşı ilk büyük zafer olan Koyunhisar Savaşı (1302)",
+      "Yenişehir, İnegöl ve Karacahisar gibi önemli kalelerin fethi",
+      "Bursa kuşatmasının başlatılması"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/1.jpg"
+  },
+  "2": {
+    "name": "Orhan Gazi",
+    "title": "Sultan, Gazi",
+    "birth_death": "1281–1362",
+    "sultanate": "1326–1362",
+    "father": "Osman Gazi",
+    "mother": "Malhun Hatun",
+    "wife": "Nilüfer Hatun, Asporça Hatun, Theodora Hatun",
+    "reign_summary": "Devleti kurumsallaştıran, beylikten devlete geçişi sağlayan ve Rumeli'ye ilk adımı atan padişah.",
+    "story": "Babasının vasiyeti üzerine Bursa'yı fethederek başkent yaptı. Osmanlı tarihinde ilk kez 'Sultan' unvanını kullandı. Devlet teşkilatlanmasına büyük önem vererek ilk divanı, vezirlik makamını ve yaya ve müsellem adıyla düzenli orduyu kurdu. Karesioğulları Beyliği'ni Osmanlı'ya katarak Anadolu Türk birliğini sağlama yolunda ilk adımı attı ve bu beyliğin donanmasıyla Rumeli'ye geçişi kolaylaştırdı.",
+    "key_events": [
+      "Bursa'nın fethi ve başkent yapılması (1326)",
+      "Maltepe (Palekanon) Savaşı ile Bizans'ın Anadolu'daki etkisinin kırılması (1329)",
+      "İznik ve İzmit'in fethi",
+      "Karesioğulları Beyliği'nin Osmanlı'ya katılması",
+      "Rumeli'ye geçiş ve Çimpe Kalesi'nin alınması (1354)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/2.jpg"
+  },
+  "3": {
+    "name": "I. Murad",
+    "title": "Hüdavendigâr",
+    "birth_death": "1326–1389",
+    "sultanate": "1362–1389",
+    "father": "Orhan Gazi",
+    "mother": "Nilüfer Hatun",
+    "wife": "Gülçiçek Hatun, Tamara Hatun",
+    "reign_summary": "Balkanlar'da Osmanlı hâkimiyetini kesinleştiren, savaş meydanında şehit olan ilk ve tek Osmanlı padişahı.",
+    "story": "Saltanatı boyunca fetihleri Balkanlar yönünde yoğunlaştırdı. Sazlıdere Savaşı ile Edirne'yi fethederek başkent yaptı. Haçlı ordularına karşı Sırpsındığı ve Çirmen savaşlarında büyük zaferler kazandı. Devlet yönetiminde tımar sistemini geliştirdi, Yeniçeri Ocağı'nı ve Acemi Ocağı'nı kurumsallaştırdı. I. Kosova Savaşı'nı kazandıktan sonra savaş meydanını gezerken bir Sırp askeri tarafından şehit edildi.",
+    "key_events": [
+      "Edirne'nin fethi ve başkent yapılması (1363)",
+      "Sırpsındığı Zaferi (1364)",
+      "Yeniçeri Ocağı'nın kurulması",
+      "I. Kosova Zaferi ve savaş alanında şehit olması (1389)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/3.jpg"
+  },
+  "4": {
+    "name": "I. Bayezid",
+    "title": "Yıldırım",
+    "birth_death": "1360–1403",
+    "sultanate": "1389–1402",
+    "father": "I. Murad",
+    "mother": "Gülçiçek Hatun",
+    "wife": "Devlet Hatun, Olivera Despina Hatun",
+    "reign_summary": "Anadolu Türk birliğini büyük ölçüde sağlayan, ancak Ankara Savaşı'nda Timur'a yenilerek Fetret Devri'ne yol açan padişah.",
+    "story": "Hızlı hareket etmesi nedeniyle 'Yıldırım' unvanını aldı. Anadolu'daki beyliklerin çoğunu Osmanlı'ya bağlayarak Anadolu Türk siyasi birliğini büyük oranda sağladı. Avrupa'nın en büyük Haçlı ordularından birini Niğbolu Savaşı'nda bozguna uğrattı. İstanbul'u kuşatan ilk Osmanlı padişahıdır. Ancak doğuda büyüyen Timur tehlikesini önleyemedi ve 1402'de Ankara Savaşı'nda yenilerek esir düştü, bu da Osmanlı'yı 11 yıllık Fetret Devri'ne soktu.",
+    "key_events": [
+      "Anadolu beyliklerinin büyük bir kısmının ilhakı",
+      "Niğbolu Zaferi (1396)",
+      "İstanbul'un ilk kez kuşatılması (1391-1400)",
+      "Ankara Savaşı'nda Timur'a yenilgi ve esir düşüş (1402)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/4.jpg"
+  },
+  "5": {
+    "name": "I. Mehmed",
+    "title": "Çelebi, Kirişçi",
+    "birth_death": "1389–1421",
+    "sultanate": "1413–1421",
+    "father": "I. Bayezid",
+    "mother": "Devlet Hatun",
+    "wife": "Emine Hatun",
+    "reign_summary": "Fetret Devri'ne son vererek devleti dağılmaktan kurtaran, Osmanlı'nın ikinci kurucusu.",
+    "story": "Ankara Savaşı sonrası kardeşleriyle 11 yıl süren taht mücadelesine girdi. Bu döneme son vererek devleti yeniden tek bir yönetim altında birleştirdiği için 'Osmanlı Devleti'nin ikinci kurucusu' olarak anılır. Saltanatı, iç isyanları bastırmak ve devletin sarsılan otoritesini yeniden kurmakla geçti. Venediklilerle ilk deniz savaşını yaptı ve Şeyh Bedrettin İsyanı gibi önemli bir sosyal ve dini isyanı bastırdı.",
+    "key_events": [
+      "Fetret Devri'ne son vererek devleti yeniden birleştirmesi (1413)",
+      "Şeyh Bedrettin İsyanı'nın bastırılması (1416)",
+      "Venediklilerle ilk deniz savaşı (Çalıbey Savaşı)",
+      "Anadolu'da ve Balkanlar'da devlet otoritesinin yeniden sağlanması"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/5.jpg"
+  },
+  "6": {
+    "name": "II. Murad",
+    "title": "Koca Murad, Hayır Babası",
+    "birth_death": "1404–1451",
+    "sultanate": "1421–1444 / 1446–1451",
+    "father": "I. Mehmed",
+    "mother": "Emine Hatun",
+    "wife": "Hüma Hatun, Mara Hatun",
+    "reign_summary": "Balkanlar'da Osmanlı egemenliğini pekiştiren, tahtı kendi isteğiyle bırakıp geri dönen ilk padişah.",
+    "story": "Saltanatı boyunca Balkanlar'daki Haçlı ittifaklarına karşı başarılı mücadeleler verdi. Varna Savaşı'nda ve II. Kosova Savaşı'nda Haçlıları büyük yenilgilere uğratarak Osmanlı'nın Balkanlar'daki hakimiyetini kesinleştirdi. Sanata ve bilime değer veren, alimleri koruyan bir hükümdardı. Tahtı 12 yaşındaki oğlu Mehmed'e bırakarak Manisa'ya çekildi, ancak Haçlı tehlikesi üzerine devlet adamlarının ısrarıyla yeniden tahta geçti.",
+    "key_events": [
+      "İstanbul'un kuşatılması (1422)",
+      "Varna Zaferi (1444)",
+      "Tahtı oğlu II. Mehmed'e bırakması (1444)",
+      "II. Kosova Zaferi (1448)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/6.jpg"
+  },
+  "7": {
+    "name": "II. Mehmed",
+    "title": "Fatih Sultan Mehmed, Kayser-i Rum",
+    "birth_death": "1432–1481",
+    "sultanate": "1444–1446 / 1451–1481",
+    "father": "II. Murad",
+    "mother": "Hüma Hatun",
+    "wife": "Gülbahar Hatun, Sitti Mükrime Hatun, Çiçek Hatun",
+    "reign_summary": "İstanbul'u fethederek bir çağı kapatıp yeni bir çağ açan, Osmanlı'yı imparatorluğa dönüştüren büyük komutan ve devlet adamı.",
+    "story": "Tarihin en büyük komutanlarından biri olarak kabul edilir. 21 yaşında İstanbul'u fethederek 1000 yıllık Bizans İmparatorluğu'na son verdi ve bu olay Orta Çağ'ın sonu, Yeni Çağ'ın başlangıcı sayıldı. Fetihlerinin ardından Sırbistan, Mora, Eflak, Bosna, Arnavutluk ve Trabzon Rum İmparatorluğu'nu Osmanlı topraklarına kattı. Devlet teşkilatını yeniden düzenleyen Kanunname-i Âli Osman'ı hazırlattı. Bilime, sanata ve farklı dillere olan ilgisiyle tanınan bir entelektüeldi.",
+    "key_events": [
+      "İstanbul'un Fethi (1453)",
+      "Trabzon Rum İmparatorluğu'na son verilmesi (1461)",
+      "Otlukbeli Savaşı'nda Akkoyunluların yenilmesi (1473)",
+      "Bosna, Sırbistan ve Mora'nın fethi",
+      "Kanunname-i Âli Osman'ın hazırlanması"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/7.jpg"
+  },
+  "8": {
+    "name": "II. Bayezid",
+    "title": "Sultan Bayezid-i Veli",
+    "birth_death": "1447–1512",
+    "sultanate": "1481–1512",
+    "father": "Fatih Sultan Mehmed",
+    "mother": "Sitti Mükrime Hatun (veya Gülbahar Hatun)",
+    "wife": "Ayşe Hatun, Gülruh Hatun",
+    "reign_summary": "Saltanatı Cem Sultan olayı ile başlayan, daha çok barışçıl ve istikrarlı bir politika izleyen padişah.",
+    "story": "Saltanatının ilk yılları, kardeşi Cem Sultan'ın taht mücadelesiyle geçti. Cem Sultan'ın Memlükler ve Rodos Şövalyeleri'ne sığınıp Papa'nın eline düşmesi, Osmanlı için uzun yıllar süren bir dış politika sorunu oldu. Bu nedenle babası kadar fetihçi bir politika izleyemedi. Döneminde İspanya'dan sürülen Yahudilere kucak açarak onları Osmanlı topraklarına yerleştirdi. Sanata ve mimariye önem verdi, birçok cami, köprü ve külliye yaptırdı. Son yıllarında oğulları arasındaki taht mücadelesi nedeniyle tahttan feragat etmek zorunda kaldı.",
+    "key_events": [
+      "Cem Sultan olayı (1481-1495)",
+      "Osmanlı-Memlük Savaşı",
+      "İspanya'dan kaçan Yahudilerin Osmanlı'ya kabulü (1492)",
+      "Venedik ile deniz savaşları ve Mora'daki kalelerin fethi"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/8.jpg"
+  },
+  "9": {
+    "name": "I. Selim",
+    "title": "Yavuz Sultan Selim, Hadim'ul Harameyn'uş Şerifeyn",
+    "birth_death": "1470–1520",
+    "sultanate": "1512–1520",
+    "father": "II. Bayezid",
+    "mother": "Ayşe Hatun (Gülbahar Hatun)",
+    "wife": "Ayşe Hafsa Sultan",
+    "reign_summary": "8 yıllık kısa saltanatına büyük zaferler sığdırarak imparatorluk topraklarını üç katına çıkaran ve halifeliği Osmanlı'ya getiren padişah.",
+    "story": "Çok sert ve kararlı bir mizaca sahip olduğu için 'Yavuz' olarak anılır. Tahta geçer geçmez doğu sorununa odaklandı. Safevi hükümdarı Şah İsmail'i Çaldıran Savaşı'nda büyük bir yenilgiye uğratarak Anadolu'daki Şii tehlikesini ortadan kaldırdı. Ardından Memlük Devleti üzerine yönelerek Mercidabık ve Ridaniye savaşlarında zaferler kazandı. Bu zaferler sonucunda Suriye, Filistin ve Mısır Osmanlı topraklarına katıldı, halifelik Osmanlı hanedanına geçti ve Kutsal Emanetler İstanbul'a getirildi.",
+    "key_events": [
+      "Çaldıran Zaferi (1514)",
+      "Turnadağ Savaşı ile Dulkadiroğulları Beyliği'ne son verilmesi",
+      "Mercidabık Zaferi (1516) ve Ridaniye Zaferi (1517)",
+      "Memlük Devleti'ne son verilmesi ve Mısır'ın fethi",
+      "Halifeliğin Osmanlı hanedanına geçmesi"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/9.jpg"
+  },
+  "10": {
+    "name": "I. Süleyman",
+    "title": "Kanuni Sultan Süleyman, Muhteşem Süleyman",
+    "birth_death": "1494–1566",
+    "sultanate": "1520–1566",
+    "father": "Yavuz Sultan Selim",
+    "mother": "Ayşe Hafsa Sultan",
+    "wife": "Hürrem Sultan",
+    "reign_summary": "Osmanlı İmparatorluğu'nu zirveye taşıyan, en uzun süre tahtta kalan ve adaletiyle 'Kanuni' unvanını alan padişah.",
+    "story": "46 yıllık saltanatı, Osmanlı İmparatorluğu'nun siyasi, askeri ve ekonomik olarak en güçlü olduğu dönemdir. Batıda Belgrad, Rodos ve Macaristan'ın büyük bölümünü fethetti, Viyana'yı kuşattı. Doğuda Safevilerle mücadele ederek Bağdat ve Irak'ı imparatorluğa kattı. Denizlerde Barbaros Hayreddin Paşa komutasındaki donanma ile Preveze Deniz Zaferi'ni kazanarak Akdeniz'de Osmanlı hakimiyetini kurdu. Adalete verdiği önem ve çıkardığı kanunlar nedeniyle 'Kanuni' olarak anıldı. Mimar Sinan'ın eserleriyle imparatorluğun mimari çehresini şekillendirdi.",
+    "key_events": [
+      "Belgrad'ın fethi (1521)",
+      "Mohaç Meydan Muharebesi (1526)",
+      "I. Viyana Kuşatması (1529)",
+      "Preveze Deniz Zaferi (1538)",
+      "Zigetvar Seferi ve sefer sırasında vefat etmesi (1566)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/10.jpg"
+  },
+  "11": {
+    "name": "II. Selim",
+    "title": "Sarı Selim",
+    "birth_death": "1524–1574",
+    "sultanate": "1566–1574",
+    "father": "Kanuni Sultan Süleyman",
+    "mother": "Hürrem Sultan",
+    "wife": "Nurbanu Sultan",
+    "reign_summary": "Ordunun başında sefere çıkmayan ilk padişah. Döneminde devlet işlerini daha çok Sokullu Mehmed Paşa yürüttü.",
+    "story": "Babasının ölümünden sonra tahta geçti. Saltanatı boyunca devlet işlerini büyük ölçüde Sadrazam Sokullu Mehmed Paşa'ya bıraktı. Bu dönemde Kıbrıs fethedildi, ancak bu fetih Haçlı donanmasının İnebahtı'da Osmanlı donanmasını yakmasına neden oldu. Sokullu'nun girişimleriyle donanma kısa sürede yeniden inşa edildi ve Tunus fethedildi. Sakız Adası ve Yemen'in tamamen kontrol altına alınması da onun dönemindedir.",
+    "key_events": [
+      "Sakız Adası'nın fethi (1566)",
+      "Yemen'de Osmanlı hakimiyetinin yeniden kurulması",
+      "Kıbrıs'ın fethi (1571)",
+      "İnebahtı Deniz Muharebesi'nde yenilgi (1571)",
+      "Tunus'un fethi (1574)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/11.jpg"
+  },
+  "12": {
+    "name": "III. Murad",
+    "title": "Sultan",
+    "birth_death": "1546–1595",
+    "sultanate": "1574–1595",
+    "father": "II. Selim",
+    "mother": "Nurbanu Sultan",
+    "wife": "Safiye Sultan",
+    "reign_summary": "Topraklarını en geniş sınırlara ulaştıran padişahlardan biri olmasına rağmen devlet otoritesinin zayıflamaya başladığı bir dönem.",
+    "story": "Saltanatının ilk yıllarında Sokullu Mehmed Paşa'nın etkisi devam etti. Vadi's-Seyl Savaşı ile Fas, Osmanlı himayesine girdi. Doğuda Safevilerle uzun süren savaşlar yapıldı ve bu savaşlar sonucunda Azerbaycan, Gürcistan ve Dağıstan gibi geniş topraklar ele geçirildi. Ancak bu dönemde saray kadınlarının (özellikle annesi Nurbanu ve eşi Safiye Sultan'ın) devlet yönetimine müdahaleleri arttı ve rüşvet, iltimas gibi sorunlar yaygınlaşmaya başladı.",
+    "key_events": [
+      "Vadi's-Seyl Savaşı ve Fas'ın himaye altına alınması (1578)",
+      "Safevilerle yapılan uzun savaşlar (1578-1590)",
+      "Ferhat Paşa Antlaşması ile doğuda en geniş sınırlara ulaşılması",
+      "Saray kadınlarının ve kapıkulu askerlerinin nüfuzunun artması"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/12.jpg"
+  },
+  "13": {
+    "name": "III. Mehmed",
+    "title": "Eğri Fatihi",
+    "birth_death": "1566–1603",
+    "sultanate": "1595–1603",
+    "father": "III. Murad",
+    "mother": "Safiye Sultan",
+    "wife": "Halime Sultan, Handan Sultan",
+    "reign_summary": "Sancak sistemini kaldıran ve ordunun başında sefere çıkan son padişahlardan biri.",
+    "story": "Tahta çıktığında devletin hem Avusturya hem de Safevilerle savaşı devam ediyordu. Kanuni'den sonra ordunun başında sefere çıkan ilk padişah oldu. Avusturya seferinde Eğri Kalesi'ni fethetti ve Haçova Meydan Muharebesi'nde Haçlı ordusuna karşı zor durumda kalınan savaşı büyük bir zafere dönüştürdü. Sancağa çıkma usulünü kaldırarak şehzadelerin sarayda (Kafes) yetişmesi sistemini başlattı. Bu, gelecekteki padişahların devlet tecrübesinden yoksun yetişmesine neden oldu.",
+    "key_events": [
+      "Sancak sisteminin kaldırılması",
+      "Eğri Kalesi'nin fethi (1596)",
+      "Haçova Meydan Muharebesi Zaferi (1596)",
+      "Celali İsyanları'nın yaygınlaşması"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/13.jpg"
+  },
+  "14": {
+    "name": "I. Ahmed",
+    "title": "Bahtî",
+    "birth_death": "1590–1617",
+    "sultanate": "1603–1617",
+    "father": "III. Mehmed",
+    "mother": "Handan Sultan",
+    "wife": "Mahfiruz Hatice Sultan, Kösem Sultan",
+    "reign_summary": "Veraset sistemini değiştirerek 'Ekber ve Erşed' sistemini getiren, Sultanahmet Camii'ni yaptıran padişah.",
+    "story": "Çocuk yaşta tahta geçti. Saltanatında Avusturya ile yapılan savaşlar Zitvatorok Antlaşması ile sona erdi. Bu antlaşma ile Osmanlı, Avusturya karşısındaki diplomatik üstünlüğünü kaybetti. Doğuda Safevilerle yapılan savaşlarda ise toprak kayıpları yaşandı. En önemli icraatı, veraset sisteminde yaptığı değişikliktir. Taht kavgalarını önlemek için padişahlığın hanedanın en yaşlı ve aklı başında (ekber ve erşed) üyesine geçmesi kuralını getirdi. İstanbul'un simgelerinden Sultanahmet Camii'ni yaptırdı.",
+    "key_events": [
+      "Zitvatorok Antlaşması (1606)",
+      "Celali İsyanları'nın bastırılması (Kuyucu Murad Paşa)",
+      "Veraset sisteminde Ekber ve Erşed usulünün getirilmesi",
+      "Sultanahmet Camii'nin inşası (1609-1617)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/14.jpg"
+  },
+  "15": {
+    "name": "I. Mustafa",
+    "title": "Deli Mustafa",
+    "birth_death": "1591–1639",
+    "sultanate": "1617–1618 / 1622–1623",
+    "father": "III. Mehmed",
+    "mother": "Halime Sultan",
+    "wife": "Resmi nikahlı eşi bilinmemektedir.",
+    "reign_summary": "Akli dengesinin bozuk olması nedeniyle iki kez tahta çıkıp indirilen ilk padişah.",
+    "story": "Ekber ve Erşed sisteminin ilk uygulaması olarak tahta geçti. Ancak akli dengesinin yerinde olmaması nedeniyle devlet işlerini yürütemedi ve 3 ay sonra tahttan indirildi. Genç Osman'ın bir isyanla öldürülmesinin ardından isyancılar tarafından ikinci kez tahta çıkarıldı. Bu dönem de bir yıldan biraz fazla sürdü ve devlet adamlarının kararıyla tekrar tahttan indirilerek yerine IV. Murad geçirildi.",
+    "key_events": [
+      "Ekber ve Erşed sistemiyle tahta çıkan ilk padişah olması",
+      "Akli sorunları nedeniyle tahttan indirilmesi",
+      "Genç Osman'ın katlinden sonra ikinci kez tahta çıkarılması"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/15.jpg"
+  },
+  "16": {
+    "name": "II. Osman",
+    "title": "Genç Osman",
+    "birth_death": "1604–1622",
+    "sultanate": "1618–1622",
+    "father": "I. Ahmed",
+    "mother": "Mahfiruz Hatice Sultan",
+    "wife": "Akile Hatun, Ayşe Sultan",
+    "reign_summary": "Devlette köklü reformlar yapmaya çalışan ancak Yeniçeriler tarafından tahttan indirilerek öldürülen ilk padişah.",
+    "story": "Genç yaşına rağmen devletteki bozulmanın farkında olan ve köklü reformlar yapmayı amaçlayan bir padişahtı. Lehistan seferi (Hotin Seferi) sırasında Yeniçerilerin disiplinsizliğini görünce bu ocağı kaldırmaya karar verdi. Saray dışından evlilik yaparak saray geleneklerini yıktı. Ancak planları ortaya çıkınca, Yeniçeriler ve onlarla işbirliği yapan bazı devlet adamları isyan ederek onu tahttan indirdi ve Yedikule Zindanları'nda boğarak öldürdü. Bu olay, Osmanlı tarihinde bir dönüm noktası oldu.",
+    "key_events": [
+      "Hotin Seferi (1621)",
+      "Yeniçeri Ocağı'nı kaldırma ve köklü reformlar yapma girişimi",
+      "Saray dışından evlilik yapan ilk padişah olması",
+      "Bir isyan sonucu katledilen ilk Osmanlı padişahı olması (1622)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/16.jpg"
+  },
+  "17": {
+    "name": "IV. Murad",
+    "title": "Bağdat Fatihi, Sahib-kıran",
+    "birth_death": "1612–1640",
+    "sultanate": "1623–1640",
+    "father": "I. Ahmed",
+    "mother": "Kösem Sultan",
+    "wife": "Ayşe Sultan",
+    "reign_summary": "Devlet otoritesini demir yumrukla yeniden tesis eden, içki ve tütün yasaklarıyla tanınan sert mizaçlı padişah.",
+    "story": "Çocuk yaşta tahta geçtiği için ilk yıllarında yönetim annesi Kösem Sultan'ın elindeydi. Büyüyüp yönetimi eline alınca, devletteki anarşiye ve bozulmaya son vermek için çok sert tedbirler aldı. İsyan eden Yeniçerileri ve devlet adamlarını acımasızca cezalandırdı. İstanbul'da içki, tütün ve gece sokağa çıkma yasağı getirdi. Safeviler üzerine düzenlediği Revan ve Bağdat seferleriyle büyük başarılar kazandı. Özellikle Bağdat'ı fethederek 'Bağdat Fatihi' olarak anıldı.",
+    "key_events": [
+      "Devlet otoritesini sert tedbirlerle yeniden sağlaması",
+      "İçki, tütün ve gece sokağa çıkma yasakları",
+      "Revan (1635) ve Bağdat (1638) Seferleri",
+      "Safevilerle Kasr-ı Şirin Antlaşması'nın imzalanması (1639)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/17.jpg"
+  },
+  "18": {
+    "name": "İbrahim",
+    "title": "Deli İbrahim",
+    "birth_death": "1615–1648",
+    "sultanate": "1640–1648",
+    "father": "I. Ahmed",
+    "mother": "Kösem Sultan",
+    "wife": "Turhan Hatice Sultan, Saliha Dilaşub Sultan, Hatice Muazzez Sultan",
+    "reign_summary": "Akli dengesizliği ve savurganlığı ile bilinen, saltanatı saray entrikaları ve isyanlarla geçen padişah.",
+    "story": "Ağabeyi IV. Murad'ın sert yönetimi altında ölüm korkusuyla yaşadığı için ruhsal sağlığı bozulmuştu. Saltanatı boyunca devlet işlerinden çok zevk ve sefaya düşkünlüğüyle tanındı. Yönetim, annesi Kösem Sultan ve bazı devlet adamlarının elindeydi. Lüks ve israf harcamaları devlet hazinesini zora soktu. Girit'in fethi onun döneminde başladı. Ancak keyfi uygulamaları ve kötü yönetim, ulemanın ve ordunun isyanına yol açtı. Tahttan indirilerek öldürüldü.",
+    "key_events": [
+      "Girit'in fethinin başlaması (1645)",
+      "Devlet yönetiminde saray kadınları ve liyakatsiz kişilerin etkisinin artması",
+      "Aşırı israf ve lüks harcamalar",
+      "Asker ve ulemanın isyanıyla tahttan indirilip öldürülmesi (1648)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/18.jpg"
+  },
+  "19": {
+    "name": "IV. Mehmed",
+    "title": "Avcı Mehmed",
+    "birth_death": "1642–1693",
+    "sultanate": "1648–1687",
+    "father": "Sultan İbrahim",
+    "mother": "Turhan Hatice Sultan",
+    "wife": "Emetullah Rabia Gülnuş Sultan",
+    "reign_summary": "En uzun süre tahtta kalan ikinci padişah. Saltanatı Köprülüler devri ve II. Viyana Kuşatması hezimetiyle geçti.",
+    "story": "6 yaşında tahta çıktı. İlk yıllarında annesi Turhan Sultan ve babaannesi Kösem Sultan arasında büyük bir iktidar mücadelesi yaşandı. Bu mücadele Turhan Sultan'ın zaferiyle sonuçlandı. Devletin içinde bulunduğu kötü durumu düzeltmesi şartıyla Köprülü Mehmed Paşa sadrazamlığa getirildi ve böylece 'Köprülüler Devri' başladı. Bu dönemde devlet toparlandı, Venediklilerle savaşlarda başarılar kazanıldı, Girit'in fethi tamamlandı. Ancak Sadrazam Merzifonlu Kara Mustafa Paşa'nın giriştiği II. Viyana Kuşatması'nın felaketle sonuçlanması, Osmanlı için büyük toprak kayıplarının başlangıcı oldu. Bu yenilgi sonrası tahttan indirildi.",
+    "key_events": [
+      "Köprülüler Devri'nin başlaması (1656)",
+      "Girit'in fethinin tamamlanması (1669)",
+      "Lehistan'la yapılan savaşlar ve Bucaş Antlaşması (Batıda en geniş sınırlar)",
+      "II. Viyana Kuşatması ve büyük hezimet (1683)",
+      "Kutsal İttifak Savaşları'nın başlaması"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/19.jpg"
+  },
+  "20": {
+    "name": "II. Süleyman",
+    "title": "Sultan",
+    "birth_death": "1642–1691",
+    "sultanate": "1687–1691",
+    "father": "Sultan İbrahim",
+    "mother": "Saliha Dilaşub Sultan",
+    "wife": "Resmi nikahlı eşi bilinmemektedir.",
+    "reign_summary": "40 yılını sarayda kapalı geçirdikten sonra tahta çıkan, saltanatı Kutsal İttifak savaşlarıyla geçen padişah.",
+    "story": "IV. Mehmed'in tahttan indirilmesi üzerine padişah oldu. Hayatının büyük bir kısmını Kafes'te geçirdiği için devlet tecrübesi yoktu. Saltanatı, Avusturya, Venedik, Lehistan ve Rusya'dan oluşan Kutsal İttifak'a karşı verilen zorlu savaşlarla geçti. Fazıl Mustafa Paşa'yı sadrazamlığa getirerek orduda ve maliyede önemli düzenlemeler yaptı. Bu sayede cephede bazı başarılar elde edilse de genel olarak toprak kayıpları devam etti.",
+    "key_events": [
+      "Kutsal İttifak Savaşları'nın devamı",
+      "Fazıl Mustafa Paşa'nın sadrazamlığı ve reformları",
+      "Belgrad, Niş ve Semendire'nin geçici olarak geri alınması"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/20.jpg"
+  },
+  "21": {
+    "name": "II. Ahmed",
+    "title": "Sultan",
+    "birth_death": "1643–1695",
+    "sultanate": "1691–1695",
+    "father": "Sultan İbrahim",
+    "mother": "Hatice Muazzez Sultan",
+    "wife": "Rabia Sultan",
+    "reign_summary": "Kısa saltanatı, Kutsal İttifak Savaşları'ndaki yenilgiler ve toprak kayıplarıyla geçti.",
+    "story": "Ağabeyi II. Süleyman'ın ölümüyle tahta çıktı. Onun dönemi de tamamen Kutsal İttifak'a karşı verilen mücadelelerle geçti. Sadrazam Fazıl Mustafa Paşa'nın Salankamen Savaşı'nda şehit olması, Osmanlı için büyük bir darbe oldu. Bu savaştan sonra Avusturya orduları Macaristan'da ilerlemeye devam etti. Venedikliler de Sakız Adası'nı işgal etti. Dönemi, askeri ve mali açıdan büyük sıkıntılarla geçti.",
+    "key_events": [
+      "Salankamen Muharebesi ve Fazıl Mustafa Paşa'nın şehit olması (1691)",
+      "Avusturya'nın Macaristan'daki ilerleyişi",
+      "Venediklilerin Sakız Adası'nı işgali"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/21.jpg"
+  },
+  "22": {
+    "name": "II. Mustafa",
+    "title": "Gazi",
+    "birth_death": "1664–1703",
+    "sultanate": "1695–1703",
+    "father": "IV. Mehmed",
+    "mother": "Emetullah Rabia Gülnuş Sultan",
+    "wife": "Saliha Sultan, Şehsuvar Sultan",
+    "reign_summary": "Karlofça Antlaşması ile büyük toprak kayıplarını kabul eden, Edirne Vakası ile tahttan indirilen padişah.",
+    "story": "Ataları gibi ordunun başında sefere çıkma geleneğini canlandırmak istedi. Avusturya'ya karşı bazı başarılar kazansa da Zenta Muharebesi'nde uğradığı büyük hezimet, savaşın seyrini tamamen değiştirdi. Bu yenilgi, Osmanlı'yı barış istemeye zorladı ve 1699'da Karlofça Antlaşması imzalandı. Bu antlaşmayla Osmanlı Devleti, tarihinde ilk kez bu kadar büyük çapta toprak kaybetti. Savaş sonrası Edirne'ye çekilmesi ve devlet işlerini ihmal etmesi, Edirne Vakası olarak bilinen isyana yol açtı ve bu isyan sonucunda tahttan indirildi.",
+    "key_events": [
+      "Zenta Muharebesi'nde büyük yenilgi (1697)",
+      "Karlofça Antlaşması'nın imzalanması (1699)",
+      "İstanbul Antlaşması'nın imzalanması (1700)",
+      "Edirne Vakası ile tahttan indirilmesi (1703)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/22.jpg"
+  },
+  "23": {
+    "name": "III. Ahmed",
+    "title": "Sultan",
+    "birth_death": "1673–1736",
+    "sultanate": "1703–1730",
+    "father": "IV. Mehmed",
+    "mother": "Emetullah Rabia Gülnuş Sultan",
+    "wife": "Mihrişah Kadın, Rabia Şermi Kadın",
+    "reign_summary": "Lale Devri'nin padişahı. Batılılaşma hareketlerinin ve kültürel yeniliklerin başladığı bir dönem.",
+    "story": "Saltanatı, Osmanlı tarihinde 'Lale Devri' (1718-1730) olarak bilinen döneme damgasını vurdu. Bu dönemde, askeri alandan çok kültürel ve sosyal alanda Batı tarzı yenilikler yapıldı. Avrupa'ya ilk kez geçici elçiler gönderildi, ilk Türk matbaası kuruldu, itfaiye teşkilatı oluşturuldu ve yeni kütüphaneler açıldı. Sanat, edebiyat ve mimaride önemli gelişmeler yaşandı. Ancak bu dönemdeki lüks ve israf, halkın tepkisini çekti ve Patrona Halil İsyanı ile Lale Devri sona erdi, III. Ahmed de tahttan indirildi.",
+    "key_events": [
+      "Prut Savaşı ve Rusya'ya karşı zafer (1711)",
+      "Pasarofça Antlaşması (1718)",
+      "Lale Devri'nin başlaması",
+      "İlk Türk matbaasının kurulması (İbrahim Müteferrika)",
+      "Patrona Halil İsyanı ile tahttan indirilmesi (1730)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/23.jpg"
+  },
+  "24": {
+    "name": "I. Mahmud",
+    "title": "Gazi",
+    "birth_death": "1696–1754",
+    "sultanate": "1730–1754",
+    "father": "II. Mustafa",
+    "mother": "Saliha Sultan",
+    "wife": "Resmi nikahlı eşi bilinmemektedir.",
+    "reign_summary": "Askeri alanda Batı tarzı ıslahatları başlatan, Belgrad'ı Avusturya'dan geri alan padişah.",
+    "story": "Patrona Halil İsyanı'nın ardından tahta çıktı ve isyancıları ortadan kaldırarak otoritesini sağladı. Saltanatında, Fransız kökenli bir mühtedi olan Humbaracı Ahmed Paşa (Comte de Bonneval) öncülüğünde askeri alanda Batı tarzı ıslahatlar yapıldı. Humbaracı Ocağı modernize edildi ve Hendesehane adıyla ilk askeri mühendislik okulu açıldı. Bu reformların da etkisiyle Avusturya ve Rusya ile yapılan savaşlarda başarılar kazanıldı ve 1739 Belgrad Antlaşması ile Belgrad geri alındı.",
+    "key_events": [
+      "Patrona Halil ve isyancılarının ortadan kaldırılması",
+      "Humbaracı Ahmed Paşa'nın askeri reformları",
+      "Hendesehane'nin kurulması",
+      "Belgrad Antlaşması ile Belgrad'ın geri alınması (1739)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/24.jpg"
+  },
+  "25": {
+    "name": "III. Osman",
+    "title": "Sofu",
+    "birth_death": "1699–1757",
+    "sultanate": "1754–1757",
+    "father": "II. Mustafa",
+    "mother": "Şehsuvar Sultan",
+    "wife": "Resmi nikahlı eşi bilinmemektedir.",
+    "reign_summary": "Kısa saltanatı büyük ölçüde barış içinde ve önemli siyasi olaylar olmadan geçti.",
+    "story": "51 yıl boyunca sarayda kapalı bir hayat yaşadıktan sonra tahta çıktı. Kısa süren saltanatı, iç ve dış politika açısından sakin bir dönem oldu. Kadınların giyim kuşamına ve sokağa çıkmalarına yönelik getirdiği yasaklarla ve sık sık sadrazam değiştirmesiyle bilinir. İstanbul'da yaşanan büyük yangınlar ve Nuruosmaniye Camii'nin tamamlanması onun dönemindeki önemli olaylardır.",
+    "key_events": [
+      "İstanbul'da büyük yangınların çıkması",
+      "Nuruosmaniye Camii'nin tamamlanıp ibadete açılması (1755)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/25.jpg"
+  },
+  "26": {
+    "name": "III. Mustafa",
+    "title": "Sultan",
+    "birth_death": "1717–1774",
+    "sultanate": "1757–1774",
+    "father": "III. Ahmed",
+    "mother": "Mihrişah Kadın",
+    "wife": "Mihrişah Sultan",
+    "reign_summary": "Islahatlara önem veren ancak Rusya ile yapılan savaşta alınan ağır yenilgi ve Küçük Kaynarca Antlaşması ile sarsılan padişah.",
+    "story": "Devletin gerilemesinin farkında olan ve ıslahat yapma arzusunda olan bir padişahtı. Özellikle askeri alanda reformlar yapmaya çalıştı. Baron de Tott gibi yabancı uzmanlardan yararlanarak Sürat Topçuları Ocağı'nı kurdu ve donanmayı güçlendirmeye çalıştı. Ancak Rusya ile başlayan 1768-1774 savaşı, Osmanlı için tam bir felaket oldu. Çeşme'de Osmanlı donanması yakıldı, karada ağır yenilgiler alındı. Bu savaşın sonunu göremeden vefat etti ve ölümünden kısa bir süre sonra Osmanlı tarihinin en ağır antlaşmalarından biri olan Küçük Kaynarca Antlaşması imzalandı.",
+    "key_events": [
+      "Sürat Topçuları Ocağı'nın kurulması",
+      "Deniz Mühendishanesi'nin (Mühendishane-i Bahr-i Hümâyûn) temellerinin atılması",
+      "1768-1774 Osmanlı-Rus Savaşı",
+      "Çeşme'de Osmanlı donanmasının yakılması (1770)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/26.jpg"
+  },
+  "27": {
+    "name": "I. Abdülhamid",
+    "title": "Islahatçı",
+    "birth_death": "1725–1789",
+    "sultanate": "1774–1789",
+    "father": "III. Ahmed",
+    "mother": "Rabia Şermi Kadın",
+    "wife": "Nakşidil Sultan (tartışmalı), Sineperver Sultan",
+    "reign_summary": "Küçük Kaynarca Antlaşması'nın ağır sonuçlarıyla başa çıkmaya çalışan ve ıslahatları sürdüren padişah.",
+    "story": "Tahta çıktığında devleti Küçük Kaynarca Antlaşması'nın ağır yükü altında buldu. Kırım'ın kaybedilmesi hem siyasi hem de manevi olarak büyük bir darbeydi. Bu zor şartlara rağmen ıslahat çabalarını sürdürdü. Maliyeyi düzeltmeye, orduyu modernize etmeye çalıştı. Ulufe alım satımını yasakladı, Yeniçerilerin sayımını yaptırdı ve Halil Hamid Paşa gibi yetenekli devlet adamlarıyla çalıştı. Ancak Rusya ve Avusturya'nın yeniden saldırmasıyla başlayan savaşta Özi Kalesi'nin düştüğü ve halkının katledildiği haberini alınca felç geçirerek vefat etti.",
+    "key_events": [
+      "Küçük Kaynarca Antlaşması'nın imzalanması (1774)",
+      "Kırım'ın bağımsız olması ve ardından Rusya tarafından ilhakı (1783)",
+      "Askeri ve mali alanda ıslahat girişimleri",
+      "1787-1792 Osmanlı-Rus-Avusturya Savaşı'nın başlaması"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/27.jpg"
+  },
+  "28": {
+    "name": "III. Selim",
+    "title": "İlhamî",
+    "birth_death": "1761–1808",
+    "sultanate": "1789–1807",
+    "father": "III. Mustafa",
+    "mother": "Mihrişah Sultan",
+    "wife": "Resmi nikahlı eşi bilinmemektedir.",
+    "reign_summary": "Nizam-ı Cedid adıyla ilk köklü ve planlı ıslahat hareketini başlatan, ancak bir isyanla tahttan indirilen yenilikçi padişah.",
+    "story": "Osmanlı Devleti'ni Batı tarzında modernize etmeyi amaçlayan ilk padişahlardandır. Nizam-ı Cedid (Yeni Düzen) adıyla bilinen kapsamlı bir reform programı başlattı. Bu programın merkezinde, Yeniçerilere alternatif olarak talimli ve modern bir ordu kurmak vardı. Ayrıca Avrupa'da daimi elçilikler açtı, devlet yönetiminde ve maliyede yenilikler yaptı. Ancak bu reformlar, çıkarları zedelenen Yeniçerilerin ve bazı tutucu çevrelerin tepkisini çekti. Kabakçı Mustafa İsyanı ile Nizam-ı Cedid hareketi sona erdi ve III. Selim tahttan indirilerek öldürüldü.",
+    "key_events": [
+      "Nizam-ı Cedid ordusunun kurulması",
+      "Avrupa'da daimi elçiliklerin açılması (Londra, Paris, Viyana, Berlin)",
+      "Levent ve Selimiye kışlalarının inşası",
+      "Kabakçı Mustafa İsyanı ile tahttan indirilmesi ve katledilmesi (1807-1808)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/28.jpg"
+  },
+  "29": {
+    "name": "IV. Mustafa",
+    "title": "Sultan",
+    "birth_death": "1779–1808",
+    "sultanate": "1807–1808",
+    "father": "I. Abdülhamid",
+    "mother": "Sineperver Sultan",
+    "wife": "Resmi nikahlı eşi bilinmemektedir.",
+    "reign_summary": "Nizam-ı Cedid karşıtı isyancılar tarafından tahta çıkarılan, kısa saltanatı siyasi kaosla geçen padişah.",
+    "story": "Kabakçı Mustafa İsyanı'nın ardından, isyancıların desteğiyle tahta çıktı. Saltanatı, Nizam-ı Cedid reformlarının lağvedilmesi ve isyancıların devletteki hakimiyetiyle geçti. Ancak Rusçuk Ayanı Alemdar Mustafa Paşa, III. Selim'i yeniden tahta çıkarmak için İstanbul'a yürüdü. Alemdar'ın saraya yaklaştığını haber alan IV. Mustafa, tahtını korumak için III. Selim'i ve kardeşi Şehzade Mahmud'u öldürme emri verdi. III. Selim öldürüldü, ancak Şehzade Mahmud kurtarılarak padişah ilan edildi. IV. Mustafa ise tahttan indirilerek öldürüldü.",
+    "key_events": [
+      "Kabakçı Mustafa İsyanı sonrası tahta çıkması",
+      "Nizam-ı Cedid reformlarının kaldırılması",
+      "Alemdar Mustafa Paşa'nın İstanbul'a yürümesi",
+      "III. Selim'i öldürtmesi ve tahttan indirilerek idam edilmesi"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/29.jpg"
+  },
+  "30": {
+    "name": "II. Mahmud",
+    "title": "Adlî, İnkılapçı Padişah",
+    "birth_death": "1785–1839",
+    "sultanate": "1808–1839",
+    "father": "I. Abdülhamid",
+    "mother": "Nakşidil Sultan",
+    "wife": "Bezmialem Sultan, Pertevniyal Sultan",
+    "reign_summary": "Yeniçeri Ocağı'nı kaldırarak reformların önünü açan, Osmanlı modernleşmesinin temellerini atan padişah.",
+    "story": "Saltanatının ilk döneminde Alemdar Mustafa Paşa ile Sened-i İttifak'ı imzalayarak ayanların varlığını tanıdı. Ancak asıl büyük icraatı, 1826'da Vaka-i Hayriye (Hayırlı Olay) olarak bilinen olayla Yeniçeri Ocağı'nı ortadan kaldırmasıdır. Bu olay, köklü reformların önündeki en büyük engeli kaldırdı. Ardından Asakir-i Mansure-i Muhammediyye adıyla modern bir ordu kurdu. Devlet teşkilatını Batı tarzında yeniden yapılandırdı: Divan-ı Hümayun'u kaldırıp nazırlıklar (bakanlıklar) kurdu, ilköğretimi zorunlu hale getirdi, ilk resmi gazeteyi (Takvim-i Vekayi) çıkardı ve kılık kıyafette reformlar yaptı.",
+    "key_events": [
+      "Sened-i İttifak'ın imzalanması (1808)",
+      "Yunan İsyanı ve Yunanistan'ın bağımsız olması",
+      "Vaka-i Hayriye: Yeniçeri Ocağı'nın kaldırılması (1826)",
+      "Modern kurumların (nazırlıklar, posta teşkilatı) kurulması"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/30.jpg"
+  },
+  "31": {
+    "name": "Abdülmecid",
+    "title": "Sultan",
+    "birth_death": "1823–1861",
+    "sultanate": "1839–1861",
+    "father": "II. Mahmud",
+    "mother": "Bezmialem Sultan",
+    "wife": "Gülcemal Kadın, Şevkefza Kadın, Tirimüjgan Kadın",
+    "reign_summary": "Tanzimat Fermanı ve Islahat Fermanı'nı ilan ederek Osmanlı Devleti'nde anayasal sürecin ve modernleşmenin temellerini atan padişah.",
+    "story": "Babasının başlattığı reformları devam ettirdi. Tahta çıktığı yıl, Mustafa Reşid Paşa tarafından hazırlanan Tanzimat Fermanı'nı (Gülhane Hatt-ı Hümayunu) ilan etti. Bu fermanla padişah, kendi gücünü kanunla sınırlayarak can, mal ve namus güvenliği gibi temel hakları güvence altına aldı. Daha sonra Kırım Savaşı'nın ardından Avrupalı devletlerin baskısıyla 1856'da Islahat Fermanı'nı yayımladı. Bu fermanla gayrimüslimlere daha geniş haklar tanındı. Döneminde ilk dış borç alındı, ilk demiryolu yapıldı ve Dolmabahçe Sarayı inşa edildi.",
+    "key_events": [
+      "Tanzimat Fermanı'nın ilanı (1839)",
+      "Kırım Savaşı (1853-1856)",
+      "Islahat Fermanı'nın ilanı (1856)",
+      "İlk dış borcun alınması",
+      "Dolmabahçe Sarayı'nın inşası"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/31.jpg"
+  },
+  "32": {
+    "name": "Abdülaziz",
+    "title": "Sultan",
+    "birth_death": "1830–1876",
+    "sultanate": "1861–1876",
+    "father": "II. Mahmud",
+    "mother": "Pertevniyal Sultan",
+    "wife": "Dürrinev Kadın, Hayranıdil Kadın",
+    "reign_summary": "Avrupa'ya seyahat eden ilk padişah. Donanmaya büyük yatırım yapmasına rağmen israfları ve otoriter yönetimiyle tahttan indirildi.",
+    "story": "Batı'yı yakından tanımak amacıyla Avrupa'ya bir gezi düzenleyen ilk ve tek Osmanlı padişahıdır. Bu gezinin ardından Batı tarzı eğitim kurumları açılmasına hız verdi (Darülfünun, Galatasaray Sultanisi). Donanmaya büyük önem vererek dünyanın en büyük üçüncü donanmasını kurdurdu. Ancak saray masrafları ve aşırı borçlanma nedeniyle devlet maliyesi iflas etti (Ramazan Kararnamesi). Yönetimdeki otoriter tutumu, Mithat Paşa ve diğer Jön Türklerin muhalefetine yol açtı ve bir darbe ile tahttan indirildi. Kısa bir süre sonra odasında bilekleri kesilmiş halde ölü bulundu.",
+    "key_events": [
+      "Avrupa'ya seyahat eden ilk padişah olması (1867)",
+      "Darülfünun (İstanbul Üniversitesi) ve Galatasaray Sultanisi'nin açılması",
+      "Süveyş Kanalı'nın açılışına katılması",
+      "Devletin mali iflası",
+      "Darbe ile tahttan indirilmesi ve şüpheli ölümü (1876)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/32.jpg"
+  },
+  "33": {
+    "name": "V. Murad",
+    "title": "Sultan",
+    "birth_death": "1840–1904",
+    "sultanate": "1876 (93 gün)",
+    "father": "Sultan Abdülmecid",
+    "mother": "Şevkefza Kadın",
+    "wife": "Resmi nikahlı eşi bilinmemektedir.",
+    "reign_summary": "En kısa süre tahtta kalan Osmanlı padişahı. Akli dengesinin bozulması nedeniyle tahttan indirildi.",
+    "story": "Amcası Abdülaziz'in tahttan indirilmesinin ardından padişah oldu. Batı tarzı bir eğitim almış, liberal fikirlere sahip bir şehzadeydi. Ancak Abdülaziz'in şüpheli ölümü ve yaşadığı diğer olaylar nedeniyle ruhsal sağlığı bozuldu. Meşrutiyeti ilan etmesi beklenirken, akli dengesinin devlet yönetimine uygun olmadığına dair doktor raporu üzerine, sadece 93 gün tahtta kaldıktan sonra indirildi ve yerine kardeşi II. Abdülhamid geçirildi. Hayatının geri kalanını Çırağan Sarayı'nda gözaltında geçirdi.",
+    "key_events": [
+      "Abdülaziz'in tahttan indirilmesiyle padişah olması",
+      "Akli sağlığının bozulması",
+      "93 gün sonra tahttan indirilmesi"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/33.jpg"
+  },
+  "34": {
+    "name": "II. Abdülhamid",
+    "title": "Ulu Hakan",
+    "birth_death": "1842–1918",
+    "sultanate": "1876–1909",
+    "father": "Sultan Abdülmecid",
+    "mother": "Tirimüjgan Kadın",
+    "wife": "Bidar Kadın, Müşfika Kadın",
+    "reign_summary": "Meşrutiyeti ilan edip ardından askıya alarak 33 yıl ülkeyi mutlakiyetle yöneten, denge politikası ve eğitim yatırımlarıyla tanınan padişah.",
+    "story": "Tahta çıktığında Jön Türklere verdiği sözü tutarak ilk Osmanlı anayasası olan Kanun-ı Esasi'yi ilan etti ve I. Meşrutiyet dönemini başlattı. Ancak 1877-78 Osmanlı-Rus Savaşı'nı (93 Harbi) bahane ederek meclisi kapattı ve anayasayı askıya aldı. 30 yıl sürecek olan 'İstibdat Dönemi' böylece başladı. Bu dönemde dış politikada denge siyaseti izleyerek devleti büyük savaşlardan uzak tutmaya çalıştı. Ülke genelinde eğitim, ulaşım (Hicaz Demiryolu) ve haberleşme alanlarında büyük yatırımlar yaptı. Ancak Jön Türklerin muhalefeti güçlendi ve 1908'de İttihat ve Terakki Cemiyeti'nin baskısıyla II. Meşrutiyet'i yeniden ilan etmek zorunda kaldı. 31 Mart Vakası'nın ardından 1909'da tahttan indirildi.",
+    "key_events": [
+      "Kanun-ı Esasi'nin ve I. Meşrutiyet'in ilanı (1876)",
+      "93 Harbi (1877-1878) ve Ayastefanos/Berlin Antlaşmaları",
+      "Meclis-i Mebusan'ı kapatması ve İstibdat Dönemi'nin başlaması",
+      "II. Meşrutiyet'in ilanı (1908)",
+      "31 Mart Vakası sonrası tahttan indirilmesi (1909)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/34.jpg"
+  },
+  "35": {
+    "name": "V. Mehmed Reşad",
+    "title": "Sultan",
+    "birth_death": "1844–1918",
+    "sultanate": "1909–1918",
+    "father": "Sultan Abdülmecid",
+    "mother": "Gülcemal Kadın",
+    "wife": "Dürriaden Kadın, Kamures Kadın",
+    "reign_summary": "Saltanatı İttihat ve Terakki'nin kontrolünde geçen, Balkan Savaşları ve I. Dünya Savaşı gibi büyük felaketlere tanıklık eden padişah.",
+    "story": "II. Abdülhamid'in tahttan indirilmesinden sonra padişah oldu. Ancak gerçek iktidar İttihat ve Terakki Partisi'nin elindeydi ve padişahın rolü büyük ölçüde sembolikti. Saltanatı, Osmanlı Devleti için en çalkantılı dönemlerden biri oldu. Trablusgarp Savaşı, Balkan Savaşları ve I. Dünya Savaşı onun döneminde yaşandı. Bu savaşlar sonucunda imparatorluk, Trablusgarp ve Balkanlardaki son topraklarını kaybetti. I. Dünya Savaşı'nın sonunu göremeden, savaşın bitmesine birkaç ay kala vefat etti.",
+    "key_events": [
+      "Trablusgarp Savaşı (1911-1912)",
+      "Balkan Savaşları ve büyük toprak kayıpları (1912-1913)",
+      "Bab-ı Ali Baskını ile İttihat ve Terakki'nin yönetime tamamen el koyması (1913)",
+      "Osmanlı Devleti'nin I. Dünya Savaşı'na girmesi (1914)"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/35.jpg"
+  },
+  "36": {
+    "name": "VI. Mehmed Vahdettin",
+    "title": "Son Padişah",
+    "birth_death": "1861–1926",
+    "sultanate": "1918–1922",
+    "father": "Sultan Abdülmecid",
+    "mother": "Gülistu Kadın",
+    "wife": "Nazikeda Kadın",
+    "reign_summary": "Osmanlı İmparatorluğu'nun son padişahı. Ülkenin işgal altında olduğu bir dönemde tahtta kaldı ve saltanatın kaldırılmasıyla yurt dışına sürüldü.",
+    "story": "I. Dünya Savaşı'nın son aylarında, imparatorluğun yenilgisinin kesinleştiği bir dönemde tahta çıktı. Mondros Mütarekesi'nin imzalanması ve ardından İstanbul başta olmak üzere ülkenin işgali onun döneminde gerçekleşti. İşgal güçleriyle işbirliği içinde bir politika izleyerek Anadolu'da başlayan Milli Mücadele'ye karşı çıktı. Sevr Antlaşması'nı imzalayan hükümeti onayladı. Ancak Milli Mücadele'nin zaferle sonuçlanması ve Türkiye Büyük Millet Meclisi'nin 1 Kasım 1922'de saltanatı kaldırmasıyla padişahlığı sona erdi. Bir İngiliz zırhlısıyla ülkeyi terk ederek sürgüne gitti ve hayatının geri kalanını yurt dışında geçirdi.",
+    "key_events": [
+      "I. Dünya Savaşı'nın sonu ve Mondros Mütarekesi (1918)",
+      "Anadolu'da Milli Mücadele'nin başlaması",
+      "Sevr Antlaşması'nın imzalanması (1920)",
+      "Saltanatın kaldırılması (1 Kasım 1922)",
+      "Yurdu terk etmesi ve Osmanlı İmparatorluğu'nun resmen sona ermesi"
+    ],
+    "image": "https://xmeroriginals.github.io/padisahlarimiz/api/v2/data/images/36.jpg"
+  }
+}
